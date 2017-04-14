@@ -1,6 +1,6 @@
 # unicode lookup table
 
-provides data from http://unicode.org/Public/UNIDATA/UnicodeData.txt for [nodejs](http://nodejs.org).
+provides data from https://unicode.org/Public/UNIDATA/UnicodeData.txt for [nodejs](http://nodejs.org).
 
 [![Build Status](https://secure.travis-ci.org/dodo/node-unicodetable.png)](http://travis-ci.org/dodo/node-unicodetable)
 
