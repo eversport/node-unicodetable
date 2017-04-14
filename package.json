@@ -16,7 +16,7 @@
     "node": ">= 0.8.x"
   },
   "scripts": {
-    "download": "curl \"http://unicode.org/Public/9.0.0/ucd/UnicodeData.txt\" > UnicodeData.txt",
+    "download": "curl \"https://unicode.org/Public/9.0.0/ucd/UnicodeData.txt\" > UnicodeData.txt",
     "generate": "node generate.js",
     "test": "node test.js",
     "np": "np"
