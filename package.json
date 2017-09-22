@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git://github.com/eversport/node-unicodetable.git"
   },
+  "main": "index.js",
   "engines": {
     "node": ">= 0.8.x"
   },
