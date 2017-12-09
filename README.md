@@ -31,3 +31,5 @@ master//node-unicodetable » node
   titlecase_mapping: '',
   symbol: '♥' }
 ```
+
+Category list: http://www.fileformat.info/info/unicode/category/index.htm
